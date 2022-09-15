@@ -12,6 +12,7 @@ function App() {
         Click on the boxes to switch them all off.
       </p>
       <Board nrows={5} ncols={5} chanceCellClicked={0.5} />
+      <p className="App-source-link"><a href="https://github.com/Lactantius/react-lights-out">See the source code</a></p>
     </div>
   );
 }
