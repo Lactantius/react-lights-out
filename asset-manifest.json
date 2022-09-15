@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lights-out/static/css/main.891b8474.css",
+    "main.js": "/react-lights-out/static/js/main.6d065ee3.js",
+    "index.html": "/react-lights-out/index.html",
+    "main.891b8474.css.map": "/react-lights-out/static/css/main.891b8474.css.map",
+    "main.6d065ee3.js.map": "/react-lights-out/static/js/main.6d065ee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891b8474.css",
+    "static/js/main.6d065ee3.js"
+  ]
+}
